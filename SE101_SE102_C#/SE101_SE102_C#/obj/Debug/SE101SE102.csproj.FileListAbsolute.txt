@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\bin\Debug\SE101SE102.exe
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\bin\Debug\SE101SE102.pdb
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\SE101SE102.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\SE101SE102.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\SE101SE102.exe
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\SE101SE102.pdb

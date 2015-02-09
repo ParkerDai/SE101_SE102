@@ -1,0 +1,18 @@
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\obj\Debug\ResolveAssemblyReference.cache
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\obj\Debug\Atop_Broadcast.Properties.Resources.resources
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\obj\Debug\Atop_Broadcast.csproj.GenerateResource.Cache
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\bin\Debug\Atop_Broadcast.exe
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\bin\Debug\Atop_Broadcast.pdb
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\obj\Debug\Atop_Broadcast.exe
+D:\VC#程式練習\UDP-Invite\Broadcast\Broadcast\obj\Debug\Atop_Broadcast.pdb
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\obj\Debug\Atop_Broadcast.exe
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\obj\Debug\Atop_Broadcast.pdb
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\bin\Debug\Atop_Broadcast.exe
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\bin\Debug\Atop_Broadcast.pdb
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\obj\Debug\ResolveAssemblyReference.cache
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\obj\Debug\Atop_Broadcast.Properties.Resources.resources
+D:\VC#程式練習\UDP-Invite\Atop_Broadcast\Atop_Broadcast\obj\Debug\Atop_Broadcast.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\Atop_Broadcast.exe
+C:\Documents and Settings\Administrator\桌面\SE101_SE102_C#\SE101_SE102_C#\obj\Debug\Atop_Broadcast.pdb
